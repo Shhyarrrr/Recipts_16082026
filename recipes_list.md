@@ -1,6 +1,6 @@
 # Рецепты
 
-[Брауни](brownie.md)
-[Банановые панкейки](banana_pancakes.md)
-[Картофель «Айдахо»](potatoes_idaho.md)
-[Банановый хлеб](bananovyy-hleb.md)
+-[Брауни](brownie.md)
+-[Банановые панкейки](banana_pancakes.md)
+-[Картофель «Айдахо»](potatoes_idaho.md)
+-[Банановый хлеб](bananovyy-hleb.md)
